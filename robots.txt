@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oashaidoo.r8r.io/sitemap.xml
